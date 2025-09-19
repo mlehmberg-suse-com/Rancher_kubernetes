@@ -1,0 +1,4 @@
+server: https://cluster01.example.com:9345
+token: mycishardenedcluster01
+secrets-encryption: "true"
+profile: "cis-1.6"
