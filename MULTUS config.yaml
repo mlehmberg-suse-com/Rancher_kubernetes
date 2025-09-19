@@ -1,0 +1,7 @@
+server: https://cluster01.example.com:9345
+token: myrke2cluster01
+tls-san:
+- cluster01.example.com
+cni:
+- multus
+- canal
